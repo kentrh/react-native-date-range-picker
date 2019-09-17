@@ -1,6 +1,6 @@
 # React Native Date Range Picker
 
-This is a simple snippet written on top of [`react-native-calendars`](https://github.com/wix/react-native-calendars) with [`hooks`]() and [`TypeScript`]() inspired by [https://github.com/lazaronixon/react-native-date-range-picker](https://github.com/lazaronixon/react-native-date-range-picker).
+This is a simple snippet written on top of [`react-native-calendars`](https://github.com/wix/react-native-calendars) with [`hooks`](https://reactjs.org/docs/hooks-intro.html) and [`TypeScript`](https://www.typescriptlang.org/) inspired by [https://github.com/lazaronixon/react-native-date-range-picker](https://github.com/lazaronixon/react-native-date-range-picker).
 
 It depends on [`date-fns`](https://date-fns.org/) and [`react-native-calendars`](https://github.com/wix/react-native-calendars)
 
