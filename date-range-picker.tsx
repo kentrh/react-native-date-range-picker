@@ -64,7 +64,7 @@ const DateRangePicker: React.FC<IDateRangePicker> = props => {
   };
 
   const onDayPress = (day: DateObject) => {
-    const date = new Date(new Date(day.dateString).setHours(12, 0, 0, 0));
+    const date = new Date(new Date(day.dateString).setHours(0, 0, 0, 0));
     const numberOfDays = differenceInDays(date, fromDate);
     if (numberOfDays < 1 || fromDate < toDate) {
       setFromDate(date);
