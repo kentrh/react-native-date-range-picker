@@ -33,5 +33,4 @@ import { addDays, addYears } from "date-fns";
 
 Locale config is commented out in [`date-range-picker.tsx`](date-range-picker.tsx) so just comment in and change as needed.
 
-Screencast
 ![Screencast date range picker](screencast.gif)
